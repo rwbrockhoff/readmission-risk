@@ -2,6 +2,10 @@
 
 Analysis of 30-day hospital readmission patterns for heart failure patients using synthetic EHR data.
 
+## Dashboard
+
+[View on Tableau Public](https://public.tableau.com/app/profile/ryan.brockhoff/viz/30-DayReadmissions/30-DayReadmissions)
+
 ## Business Question
 
 Hospital readmissions within 30 days are a key quality metric—CMS penalizes hospitals for excess readmissions on certain conditions including heart failure. This project explores: **What patient characteristics are associated with higher 30-day readmission rates?**
@@ -35,10 +39,6 @@ Synthea is industry-standard for demonstrating healthcare data skills with EHR-s
 - **notebooks/** - Python EDA on Synthea data
 - **dashboards/** - Dashboard screenshots
 - **case-study.md** - Full analysis writeup
-
-## Dashboard
-
-[View on Tableau Public](https://public.tableau.com/app/profile/ryan.brockhoff/viz/30-DayReadmissions/30-DayReadmissions)
 
 ## SQL Highlights
 
